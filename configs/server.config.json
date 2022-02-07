@@ -1,0 +1,16 @@
+{
+  "chain": "rinkeby",
+  "mongoURI": "mongodb://127.0.0.1:27017/",
+  "jsonRpcUrl": "https://rinkeby.infura.io/v3/f330abedf16748ebbff6f7ec53bdb60d",
+  "INFURA_PROJECT_ID": "",
+  "FACTORY_ADDRESS": "0x817df90B92063Ad0E224AAE635CF30bC67685427",
+  "relayerPrivateKey": "",
+  "DEFAULT_GAS_PRICE": "auto",
+  "TRANSACTION_LOOP_TIME": 10000,
+  "TRANSACTION_RETRY_TIMEOUT": 60000,
+  "GWEI_ADDED_ON_RETRY": "1",
+  "MAX_GAS_PRICE": "15",
+  "NEW_RELIC_LICENSE_KEY": "",
+  "K": "1.1",
+  "C": "1"
+}

@@ -1,0 +1,4 @@
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-UJPCMT85","pid":23372,"time":"2022-02-01T10:02:25.559Z","msg":"Using New Relic for Node.js. Agent version: 6.14.0; Node version: v16.13.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-UJPCMT85","pid":23372,"time":"2022-02-01T10:02:25.560Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-UJPCMT85","pid":5612,"time":"2022-02-01T10:09:29.539Z","msg":"Using New Relic for Node.js. Agent version: 6.14.0; Node version: v16.13.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"LAPTOP-UJPCMT85","pid":5612,"time":"2022-02-01T10:09:29.540Z","msg":"Module not enabled in configuration; not starting."}
