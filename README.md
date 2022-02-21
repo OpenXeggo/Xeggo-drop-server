@@ -21,3 +21,11 @@ yarn start
 ```bash
 yarn deploy
 ```
+
+
+
+aurora-testnet
+masterCopy Address:- 0x7375f242Cb5EB9a4fF5b139E55d7C0a906aA4d5e
+factory Address:- 0x4514CAfe39a0541184b599346Be845E2d2F7FEBE
+chain:- aurora-testnet
+jsonRPCUrl:- https://testnet.aurora.dev
